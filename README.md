@@ -21,6 +21,10 @@ Robotul este construit pe o structură simplă de carton, asigurând astfel o ba
 - Baterie LiPo: Sursa de alimentare.
 - Senzori QTR: Vitali pentru detectarea liniei.
 
+### Cod
+
+https://github.com/VladRo26/LineFollower/blob/main/line_follower.ino
+
 ### Design și Construcție
 
 Am construit robotul pe o bază de carton, creând o platformă ușoară și adaptabilă. Am integrat componentele electronice pe breadboard-ul mini, iar motoarele au fost montate pe laterale pentru propulsie. Ball caster-ul a adăugat stabilitate necesară pentru mișcările robotului.
